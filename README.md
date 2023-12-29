@@ -1,4 +1,4 @@
-# Patient
+# Patient - A text based suspenseful journey
 
 A short story driven suspense text based game built on Twine that I made as a Freshman in university. 
 
